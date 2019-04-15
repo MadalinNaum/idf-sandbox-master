@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "placeholders.css",
+	"sources": [
+		"placeholders.scss",
+		"placeholders.scss/JSASS_CUSTOM.scss"
+	],
+	"names": [],
+	"mappings": ""
+}

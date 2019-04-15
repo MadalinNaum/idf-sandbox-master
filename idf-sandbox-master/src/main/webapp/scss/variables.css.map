@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "variables.css",
+	"sources": [
+		"variables.scss",
+		"variables.scss/JSASS_CUSTOM.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
